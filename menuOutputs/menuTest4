@@ -1,0 +1,91 @@
+Last login: Sun Nov 11 00:23:13 on ttys000
+ucrwpa-4-6-10-25-119-200:~ zubair$ python /Users/zubair/Documents/ocr.py -i /Users/zubair/Downloads/menu4.png
+{'preprocess': 'thresh', 'image': '/Users/zubair/Downloads/menu4.png'}
+Traceback (most recent call last):
+  File "/Users/zubair/Documents/ocr.py", line 20, in <module>
+    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+cv2.error: OpenCV(3.4.3) /Users/travis/build/skvark/opencv-python/opencv/modules/imgproc/src/color.cpp:181: error: (-215:Assertion failed) !_src.empty() in function 'cvtColor'
+
+ucrwpa-4-6-10-25-119-200:~ zubair$ python /Users/zubair/Documents/ocr.py -i /Users/zubair/Downloads/menu4.jpg
+{'preprocess': 'thresh', 'image': '/Users/zubair/Downloads/menu4.jpg'}
+SMOOTHIE BOWLS
+
+BOWL SAINT: TROPEZ €7,00
+ASI: Banana, Frutos Vermelhos, Rebsida de aro
+FOPPING Mitlos, Coco ralado, Sementes de Chia
+
+BOW SANTA TERESA 7,00
+AST” Banana, Manteiga de Amendoin, Betta de
+TOPPING, Mirus Banana, Granola Manes de
+Amendoim
+
+BOWL cAVO.COCO. €7,00
+BASE Banana, Cacau, Maniciga de aménioa ¢ Reba
+ae Aor
+
+TOPPING Peptas de Cacau, Fremboesas, Granola e
+Marnega de Amérdos
+
+BOWL MAUL €7.00
+ASC: Banana, Khaw, Maca, Espinafes, Mele Bebida de
+Ace,
+
+TOPPING Kew, Granosa, Lascas de COKo, AWS
+Hogas de Gop
+
+BOWL MADAGASCAR 7.00
+RAST Fspinaires, Banana, Marcin, Mete Reba de
+Avot
+
+BOWLS DE AVEIA
+
+BOWL ZANZIBAR
+BASE Avie, Bebdla de Autor. Gananae Caneta
+POPPING Banana Carainelvada ern Ceo de Coo.
+Mantexga de arnendam, Coca Kalado
+
+€6,50
+
+BOWL SAO TOME £ PRINCIPE 50
+PAST Aveia, Ranana, Rebida de Artor, Cacaus Agewe
+TOPPING: Mtios, Mantenga ce Aorta, Ave,
+Peas te Cacau Cru
+
+BOWL FLORIANGPOUS. 6,50
+BASE. Avwia, Bebida de Arraz, Maga, Canola, Agave?
+POPPING: Mac’, Améndtoa losrada Manioga de
+Amnéndoa, Caneta, Met
+
+BOWL FORMENTERA 50
+BASE Ave. Boba de Aura, Freenbocses. Aganne
+TOPPING Frarabcesas, toguite Natural, Grenola, 1ascas
+de Coco, Sementes de Chia
+
+Bow, TAIT
+BASE: Avela, Matcha, Mele Bebida de Arta,
+TOPPING: Féza Sementes de Abdbora e Mantega de
+Aspendgan
+
+66,50
+
+TOPPING Fares, Semone: degrasioleLascas BOWL CAPRI 6.50
+ae6eco BASE Ave, Anan c Hebd te Aor
+TOPPING Figos. Milos, Aves. ¢ Marnciga de
+BOWL PARATY €7,00 Amen
+BAS: Aca
+TOPPING: Granola arara eke
+TRUFAS ENERGETICAS - €1.00/un
+QUENTES BEBIDAS FRIAS
+
+Lae de Agahiao | sation canes age €350 Agua deton- Agua Mort,
+Late de Matcha | maicha. agave €3,50 _araria ce Canney Pepino c Umi. €1.00
+Apple Rie Late | maca, tamara, curcuma, cancta, Smoothie e350
+
+vcard, | limonadace indo/ 250
+unenta prele. $3.50 Fr.gos vermelhos e gengiore €3,00
+ChaiLawe | cspeciarias, cha preto.agae —-€3,50
+Late de café 3.00
+café 00
+
+SUMO DO DIA €3,00/un
+

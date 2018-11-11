@@ -1,0 +1,273 @@
+Last login: Sun Nov 11 00:10:24 on ttys001
+ucrwpa-4-6-10-25-119-200:~ zubair$ python /Users/zubair/Documents/ocr.py -i /Users/zubair/Downloads/menu.png
+{'preprocess': 'thresh', 'image': '/Users/zubair/Downloads/menu.png'}
+APPETIZERS
+1. Egg Rodd... cccccssssssseesseseeesscsssssssssecsssesseses 1.50
+2. Spring Rob. scesessessssssseseessesseseseseeseeess 2.00
+3. Fried Wonton........cccccccccsesesessssssssescessesesscsesees 6.50
+4. Jar Doo Chicken Wing........ccccecsssssssseseeseeee 8.25
+5. Barbecued Spareribs...........ccccccscsessssssssseeeee 9.60
+6. Barbecued Pork Sliced.........c.cccescessessseseeeesees 9.60
+Sweet & Sour Sauce........cccceseeees (Small) 1.50
+(Large) 2.75
+SOUP
+* 7. Hot and Sour Soup (Shrimp & Pork).. 4M... 3.95
+8. Wonton Soup with B.B.Q. Pork... 3.25
+9. Egg Drop Soup.......ececssscsssscssssesssesescssseeseanes 3.00
+10. Consomme with Dry Noodle..............0c000 2.50
+11. Sweet Corn Soup.......ccccccccnsssesssscsssssssesserees 3.75
+** 12. Minced Beef with Egg Soup.........:.ccccscseeeee 3.75
+SEAFOOD
+13. Sweet & Sour Breaded Shrimp
+
+% 14. Szechuan Shrimps JJ .
+* 15. Kung Pao Shrimp (with Peanuts) JA .............. 12.15
+16. Shrimps with Vegetable & Cashew Nuts............. 11.00
+17. Pan Fried Prawn in Shell... 12.65
+
+* 18.
+19.
+** 20.
+
+* 21.
+22.
+
+23.
+
+25.
+26.
+
+27
+
+28.
+%* 29.
+*% 30.
+% 31.
+% 32.
+
+* 33.
+%* 34,
+35.
+36.
+
+% 38.
+39.
+
+Sauteed Shrimp with Special Salt & Pepper AF 1 65
+
+ 
+
+Shrimp with Snow Peas.........ssosessccssssssssscessssnsasees 35
+
+Szechuan Style Fried Calamari (Squid).............00 ‘0.98
+
+Scallops with Broccoli JJ eesseccssccsssssssssssnes
+
+Mixed Seafood with Vegetable.
+
+BEEF
+
+Sliced Beef with Snow Peas..........c.cccccesseseees 10.35
+
+Sliced Beef with Fresh Broccoli........cccccscee 9.50
+
+Sliced Beef with Broccoli on Oyster Sauce...... 10.30
+
+Sliced Beef with Black Bean Sauce.................. 10.25
+. Sliced Beef with Fresh Mushroom.............0000+. 9.45
+
+Sliced Beef Tenderloin JP .....c.ccccecseecees 10.30
+
+Beef Tenderloin Chinese Style.................c00000 15.00
+
+Filet Mignon with Black Pepper Sauce JJ 15.00
+
+Curry Beef JJ oeseeseeccescscsessssesssseesseseesessneess 10.25
+
+Beef with Ginger and Onion.............ccccseeee: 11.35
+
+CHICKEN
+Chicken Vegetable with Cashew Nuts............. 9.65
+
+Kung Pao Chicken (with Peanuts) JS ........ 10.25
+
+Chicken Tenderloin with Orange JJ .......... 10.25
+Chicken Breast with Mushroom & Broccoli.... 9.45
+. Chicken Almond S00 Guy........cccccccscesceseeeees 8.65
+Chicken with Lemon Sauce........ccccceceeeeeeee 11.35
+Sweet & Sour Chicken Balls... 9.00
+
+Please let us know if you have any food allergy
+
+PORK
+* 40. Fried Pork Chop with Chef’s Special Sauce... 11.60
+41. Deep Fried Pork with Spices Salted J ....... 11.60
+* 42. Double Sauteed Pork JA o.n.ccccccccssescsseeeeseee 9.45
+43. Sweet & Sour Pork Spareribs...........ccceceeees 7.80
+44. Sweet & Sour Pork... cccceccssecesesessesestsessesenens 8.50
+
+45. Garlic Spareribs with Honey Sauce.................. 9.60
+CHOP SUEY (Bean Sprouts)
+
+54. New Haven Special (Shrimp, Chicken, Pork)... 8.90
+55. Chicken Mushroom.........ccccsesccsseeseseeseseeesees 7.50
+56. Shrimp Mushroom..............::.ccccscecessesseseereeeeees 9.00
+57, Beef Mushroom.......c...cccssesseeeesssssssseesseeseeses 7.50
+58. B.B.Q. Pork Mushroom...........c.ccccscccsseessceeees 7.50
+Dried Noodle... esescsetcecsceteseeseseneseseneeesees 1.50
+EGG IN ORIENTAL FASHION
+64. Chicken Egg Foo Yong........cceccscsssesseessesesees 8.50
+65. B.B.Q. Pork Egg Foo Yong.......cccsseseesteseeeee 8.50
+66. Fresh Shrimp Egg Foo Yong.........ccsssscssseseses 9.50
+67. Mushroom Egg Foo Yong.........ccccseescseeeeeees 8.00
+VEGETARIAN
+
+68. Four Treasure Vegetable Di ooescecceecssecsses 9.20
+69. Stir Fried Mixed Vegetable...............ccccceceees 8.35
+*&70. Cashew Nuts with Mixed Vegetable................. 9.45
+
+201.Deep Fried Tofu with Special Spicy Sauce J 9.85
+02.Ma Po Tofu
+
+204.Bean Sprout Fried Noodle in Soya Sauce........ 8.25
+
+205.Vegetable Fried Rice with Curry #.............. 7.85
+
+206.Spicy Green Bean with Ginger & Garlic J 9.95
+
+207.Mixed Vegetables with Soft Egg Noodies...... 9.45
+CHOW MEIN (Soft Noodle)
+
+*71. Cantonese Chow Mein(Shrimp, Chicken, Pork) 11,95
+72. Sliced Beef Chow Meit.............cccccesescesseeesees 10.75
+73. Three Kinds Meat Chow Mein..............c0ccceccees 9.75
+74. Sliced Chicken Chow Mein...........c.:ccccccesseeeeee: 10.75
+
+*75. Fried Noodle Shanghai Style..............0c:cccs00 9.75
+
+FRIED RICE
+76, Chicken Fried Rice...........cccscescessessesseseeseeees 7.00
+77. Beef Fried Rice........cccccccssessssessecessessssesseseses 7.00
+78. Shrimp Fried Rice....c..c.cccccscsssessssessesessesseess 7.80
+79. Mushroom Fried Rice.........ccccscscsseeseeceseees 7.00
+80. Chef’s Special Fried Rice (with Two Kinds of Sauce) 12.95
+Steamed Rice (per BOWD)....:....:ccsesssescestssseeees 2.90
+
+Prices subject to Change without Notice
+
+S Spicy * House Recommended
+
+SPECIAL - RECOMMENDED
+
+81. Beef with Mixed Vegetable.
+
+82. B.B.Q. Pork Fried Rice........cececcssscsessssessseeee
+83. Jau Gon Guy ( chicken yr s Special Sauce) ....
+
+84. Hot & Sour Chicken
+
+85. Diced Beef with Black Pepper Sauce J
+
+86. Diced Chicken with Pineap
+
+89. Chicken & Beef with Snow Peas........
+90. Beef with Ginger & Onio?.............cc00
+91. Pork Chop w/Peking Special Sauce
+
+92. Shrimp with Lemon Sauce... esses
+
+93. Szechuan Beef JJ
+
+94. Beef with Sesame (Taiwan Style)
+
+* 95. Chicken Wing with Spicy Sauce SS ......
+96. Chicken Tenderloin w/ Spicy Sesame Sauce
+97. Beef Tenderloin with Spicy Sesame Sauce
+98. Tai DOp WY... csessssssssssssssonecescssseceneeecueesenses
+
+ 
+
+en
+87. Shrimp & Scallop with Black Bean Sauce J
+88. Shrimp & Scallop with Snow Peaas..............
+
+7.
+10.50
+
+   
+  
+
+*€ 99, Chicken Tenderloin in Hot Pot (Portuguese Style) D 85
+
+100.Chicken and Shrimp with Snow Peas ........
+with Special Peking Sauce .............
+102.Fried Shrimp with Shanghai Sauce ............
+
+101.Shrimp
+103.Shnmp with Sesame (Taiwan Style)
+
+ 
+
+13.35
+
+104.Shrimp, Chicken & Beef w Veg. in Peking Sauce 12.00
+
+105.Assorted Meat and Vegetables in Hot Pot
+106.Fried Vermicelli Noodles (Singapore Style) J
+107.Fried Vermicelli Noodle (Szechuan Style)
+** 108. Yeung Chow Fried Rice (Shrimp, Pork) ...
+109.Pineapples Fried Rice with Shrimp & Chicken ....
+
+sessessuagane 12.45
+
+9.95
+JS 94
+
+sesseeseesees 9.45
+
+9.95
+
+SPECIAL COMBINATION PLATE
+
+COMBINATION A
+
+Egg Roll
+Sweet & Sour Ribs
+Vegetable Fried Rice
+
+COMBINATION B
+
+Egg Roll
+Sweet & Sour Chicken Balls
+Vegetable Fried Rice
+
+COMBINATION C
+
+Egg Roll
+Beef Chop Suey
+Vegetable Fried Rice
+
+COMBINATION D
+
+Egg Roll
+Sweet & Sour Chicken Balls
+Chicken Chop Suey
+Vegetable Fried Rice
+
+COMBINATION E
+
+Egg Roll
+Sweet & Sour Shrimp
+Chicken Chop Suey
+Vegetable Fried Rice
+
+8.35
+
+8.60
+
+8.00
+
+10.50
+
+11.00
+

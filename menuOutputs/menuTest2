@@ -1,0 +1,132 @@
+Last login: Sun Nov 11 00:13:28 on ttys001
+ucrwpa-4-6-10-25-119-200:~ zubair$ python /Users/zubair/Documents/ocr.py -i /Users/zubair/Downloads/menu2.png
+{'preprocess': 'thresh', 'image': '/Users/zubair/Downloads/menu2.png'}
+Dinner Menu
+
+*All dinners are served with choice of soup or
+salad and one (1) of the following items:
+
+Spaetzle, German Potato Salad, Dumpling or
+Fried Potatoes. ***Side Orders are extra***
+
+Gerda’s Signature Dish
+
+Jaeger Schnitzel ( Hunter Schnitzel) 19.95
+Breaded tender pork loin w/creamy burgundy
+mushroom sauce, incl. one (1) glass of wine/beer of
+your choice & a slice of Black Forrest Cherry Torte.
+
+Schnitzel a la Holstein 15.95
+Breaded tender pork loin w/Swiss Cheese, fried egg and
+caviar.
+
+Zigeuner Schnitzel 14.95
+Breaded tender pork loin with bell peppers, mushroom
+and onions.
+
+Jaeger Schnitzel 14.95
+Breaded pork loin topped with creamy burgundy
+mushroom sauce.
+
+Hungarian Goulash 15.95
+
+Large chunks of tender beef tips in brown paprika gravy
+with spaetzli (german noodles)
+
+Rouladen 15.95
+One beef roll, filled with bacon, pickle, onion, mustard
+and spices.
+
+Sauerbraten 15.95
+
+Marinated roast beef
+
+Schweinebraten 14.95
+
+Tender slices of roast pork
+
+Rahm Schnitzel 14.95
+
+Breaded tender pork with cream sauce
+
+Wiener Schnitzel 13.95
+
+Breaded tender pork loin
+
+Best Pan Fried Chicken in Town!
+
+Wednesday, Thursday & Friday Nights Only
+
+Two Piece Chicken Dinner 12.95
+Breaded boneless chicken breast w/mashed
+potatoes, gravy and vegetables
+
+One Piece Chicken Dinner 10.95
+Breaded boneless chicken breast w/mashed
+potatoes, gravy and vegetables
+
+Bratwurst or Knackwurst Dinner 10.95
+
+Bowl of Soup w/Hard Roll & Butter 5.95
+Coup of Soup w/Hard Roll & Butter 4.95
+
+Small “House Salad”, Roll & Butter 4.95
+
+Side Orders
+Sauerkraut 3.00
+Red Cabbage 3.00
+Potato Dumpling 3.00
+German Potato Salad 3.00
+Spaetzle (German Noodles) 3.00
+Appetizers
+Pickled Herring w/Bread & Butter 5.95
+Four (4) Potato Pancakes 7.95
+
+(with sour cream or apple sauce)
+
+Dessert
+*Please check w/server for availability*
+German Chocolate Cake 4.00
+Hazelnut Torte 4.00
+Black Forrest Cherry Torte 4.00
+Chocolate Raspberry Ganache 4.00
+
+Children’s Menu
+
+(Kid’s under 12 years old)
+
+Sloppy Joe 4.00
+Hamburger 4.00
+Grilled Cheese 4.00
+Kaese Spaetzle 4.00
+
+(German Mac & Cheese)
+
+Beverages
+Coffee 1.75
+Iced Tea 1.75
+Soft Drinks 1.50
+Half-Pint Milk 1.50
+Variety of Fruit Juices 1.50
+
+German Beer on Tap
+
+0.5L Pitcher
+Dunkel, Lager or Wheat 6.00 14.00
+
+German Bottle Beer
+Ask server for selection 6.00
+
+Domestic Bottles of Beer
+
+Bud Light 3.25
+
+White & Red Wines
+White Wines Glass Bottle
+Riesling, Chardonay 6.50 22.00
+Red Wines 6.50 22.00
+Merlot, Cabernet Sauvignon, Shiraz
+Mixed Drinks 6.00
+
+Ask server for selection
+
