@@ -7,7 +7,7 @@ import pyrebase
 # from package/module import names
 
 config = {
-  "apiKey": "AIzaSyAvf-7certrFQgPVT9ox_TaCn3m1UigYpg",
+  "apiKey": "__insert_api_key_here__",
   "authDomain": "dealectable-37d43.firebaseapp.com",
   "databaseURL": "https://dealectable-37d43.firebaseio.com",
   "storageBucket": "gs://dealectable-37d43.appspot.com",
